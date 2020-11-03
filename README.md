@@ -331,20 +331,4 @@ Committee Member upload student sheet who are eligible for FYP on portal which c
 
 #
 
-# REFERENCES
 
-**[1] Web Portals: The new entryways to web**
-
-**data and administrations by Dr. Zulfiqar Habib**
-
-[**https://sites.google.com/site/telecomFYP2011/downloads**](https://sites.google.com/site/telecomfyp2011/downloads)
-
-**[2] Educational gateways: An approach to get a coordinated, university data**
-
-**framework from Muhammad ail Jinnah University**
-
-[**https://www.jinnah.edu/**](https://www.jinnah.edu/)
-
-**[3] Portal Strategy; Dr. Zulfiqar Habib**
-
-[**https://scholar.google.com.pk/citations?user=ZHwPdxoAAAAJ&amp;hl=en**](https://scholar.google.com.pk/citations?user=ZHwPdxoAAAAJ&amp;hl=en)
