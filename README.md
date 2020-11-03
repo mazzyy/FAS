@@ -133,85 +133,86 @@ From admin id create committee link is clicked through which he can create commi
 
 Clicking on My Account link admin can change his personal information.
 
-![](RackMultipart20201103-4-1cbfiyc_html_8cc335bd43fc9826.png)
+![3 4](https://user-images.githubusercontent.com/38830975/98007671-7ae66c80-1e15-11eb-9d31-a0345d6f9831.png)
+
 
 ## 3.5 Login as Committee Member Interface
 
 Login as role Committee Member. Committee has authority to add advisor, students and jury teams.
 
-![](RackMultipart20201103-4-1cbfiyc_html_45bb6ae6d3cc269d.png)
+![3 5](https://user-images.githubusercontent.com/38830975/98007676-7b7f0300-1e15-11eb-86ea-2806de504452.png)
 
 ## 3.6 Create Jury Team Interface
 
 In this link committee can create jury team from different advisors added to portal the limit is 3 in members in a team.
 
-![](RackMultipart20201103-4-1cbfiyc_html_c9ddfb6c03d51c15.png)
+![3 6](https://user-images.githubusercontent.com/38830975/98007063-c51b1e00-1e14-11eb-9802-c47dfc1e03cb.png)
 
 ## 3.7 Committee ADD STUDENT Excel Sheet Interface
 
 Committee can add bunch of student in one go with uploading excel sheet and then every individual student will be emailed with their email and password.
 
-![](RackMultipart20201103-4-1cbfiyc_html_25b7f2518d345562.png)
+![3 7](https://user-images.githubusercontent.com/38830975/98007066-c5b3b480-1e14-11eb-8394-9005971b2499.png)
 
 ## 3.8 Login as Advisor Interface
 
 Login as Advisor. Advisor has authority to publish his idea see other advisors ideas and if he is in a jury team then he can coordinate with other jury members.
 
-![](RackMultipart20201103-4-1cbfiyc_html_7d8cbe89c9ce0455.png)
+![3 8](https://user-images.githubusercontent.com/38830975/98007068-c64c4b00-1e14-11eb-8795-ad0b8fe241d7.png)
 
 ## 3.9 Advisor Publish Ideas Interface
 
 Here advisor can publish his ideas for students.
 
-![](RackMultipart20201103-4-1cbfiyc_html_54357500bd6b1771.png)
+![3 9](https://user-images.githubusercontent.com/38830975/98007999-dadd1300-1e15-11eb-840d-4d84a4f3cdfa.png)
 
 ## 3.10 View All Advisors Published ideas
 
 This link allows to see all advisors ideas.
 
-![](RackMultipart20201103-4-1cbfiyc_html_ff82777a95b1080f.png)
+![3 10](https://user-images.githubusercontent.com/38830975/98008005-dc0e4000-1e15-11eb-8ed0-f0e4e6391a86.png)
 
 ## 3.11 Individual Jury team page for their communication
 
 As part of jury team this link allow all jury members to communicate with each other also can be called as jury group.
 
-![](RackMultipart20201103-4-1cbfiyc_html_30f2a360f2c8d11a.png)
+![3 11](https://user-images.githubusercontent.com/38830975/98007074-c77d7800-1e14-11eb-9d6d-637962299b94.png)
 
 ## 3.12 Login as Student Interface
 
 Login as Student, student can send request to other students, accept request from other students, see who he have sent request to.
 
-![](RackMultipart20201103-4-1cbfiyc_html_2d799654a380a9f4.png)
+![3 12](https://user-images.githubusercontent.com/38830975/98007077-c8160e80-1e14-11eb-9e1f-3a91204635f9.png)
 
 ## 3.13 Student Send and View All Request GROUP CREATING
 
 Here student can send request or view all request
 
-![](RackMultipart20201103-4-1cbfiyc_html_fd27e88d1ea9e6be.png)
+![3 13](https://user-images.githubusercontent.com/38830975/98007081-c8aea500-1e14-11eb-8900-d8b4c5341a4d.png)
 
 ## 3.15 Send request to other students
 
 Can send request from student resisted in portal has limitation of 3 students only
 
-![](RackMultipart20201103-4-1cbfiyc_html_4f42bb91c06f9c85.png)
+![3 15](https://user-images.githubusercontent.com/38830975/98007082-c9473b80-1e14-11eb-9da9-e7e4f478845d.png)
 
 ## 3.16 Student Accept Other Student Request
 
 Interface for request of other students that can be accepted or rejected by logged in user
 
-![](RackMultipart20201103-4-1cbfiyc_html_c2da215a0b8fc4ad.png)
+![3 16](https://user-images.githubusercontent.com/38830975/98007085-c9dfd200-1e14-11eb-8521-43228b5ccaa8.png)
 
 ## 3.17 Student interface for his sent request to other students
 
 Student interface for he has sent request to other students and that he can cancel
 
-![](RackMultipart20201103-4-1cbfiyc_html_be42ffffe56ed707.png)
+![3 17](https://user-images.githubusercontent.com/38830975/98007090-ca786880-1e14-11eb-8965-739016dffef6.png)
 
 ## 3.18 Student view all advisors ideas
 
 Student can view all advisers&#39; ideas
 
-![](RackMultipart20201103-4-1cbfiyc_html_457718c75a86bbd3.png)
+![3 18](https://user-images.githubusercontent.com/38830975/98007092-ca786880-1e14-11eb-9b71-9e8038bb5f33.png)
 
 # CHAPTER 4: Presentation of Data
 
