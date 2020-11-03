@@ -121,13 +121,13 @@ User to login with email and password given to them through their email.
 
 Login with role of admin. Admin has most important role in portal as he has authority to create committee.
 
-![](RackMultipart20201103-4-1cbfiyc_html_37f1c9e9f0d7465f.png)
+![3 2](https://user-images.githubusercontent.com/38830975/98007059-c3e9f100-1e14-11eb-9706-d6e9443d462f.png)
 
 ## 3.3 Create Committee Interface
 
 From admin id create committee link is clicked through which he can create committee through name and email.
 
-![](RackMultipart20201103-4-1cbfiyc_html_230e8ef6fb843edc.png)
+![3 3](https://user-images.githubusercontent.com/38830975/98007061-c4828780-1e14-11eb-9c8f-41460fb79fa9.png)
 
 ## 3.4 My Account Interface
 
