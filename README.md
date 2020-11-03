@@ -1,42 +1,6 @@
-
-
-#FINAL YEAR PROJECT PROCESS AUTOMATION SYSTEM (FAS)
-
-REPORT
-
-SUBMITTED BY
-
-1. ABDULL MUSAWER SOOMRO (FA16-BSCS-0016)
-
-2.AGHA MUAZAM ALI (FA16-BSCS-0025)
-
-SUPERVISED BY
-
-Muhammad Adil Rao
-
-![](RackMultipart20201103-4-1115z70_html_f818ecb146e997f1.jpg)
-
-RESEARCH REPORT SUBMITTED TO THE FACULTY OFCOMPUTER SCIENCE, MOHAMMAD ALI JINNAH UNIVERSITY, IN PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE DEGREE OF BACHELOR COMPUTER SCIENCE
-
-SPRING 2020
-
-![](RackMultipart20201103-4-1115z70_html_9cf3553d61fde425.gif)
-
-**FINAL YEAR PROJECT PROCESS AUTOMATION SYSTEM**
-
-**(FAS)**
-
-**Batch – 2020**
-
-DEPARTMENT OF COMPUTER SCIENCE
-
-Mohammad Ali Jinnah University. Karachi
-
-SPRING 2020
-
 **Modules**
 
-![](RackMultipart20201103-4-1115z70_html_28aab42d4eff8c71.gif)Concept of the system is of web app and the core concept of the result of the project revolved around that of a FYP stakeholders. This systems workflow is
+![](RackMultipart20201103-4-1cbfiyc_html_28aab42d4eff8c71.gif)Concept of the system is of web app and the core concept of the result of the project revolved around that of a FYP stakeholders. This systems workflow is
 
 **Super Admin**
 
@@ -143,109 +107,109 @@ After studying design interface of many university portals our idea of an outcom
 
 First part is header which will be on top of template and consist of logo and user account button to where he can modify his personal data. Second part of portal template will be the navigation panel which will be on left side of template layout where there are clickable connections which permit the user to explore to various modules of the layout. Third part will consist of most of functions of system where will work on example group discussion user sending friend request.
 
-![](RackMultipart20201103-4-1115z70_html_18a7ce12fb477ceb.png)
+![](RackMultipart20201103-4-1cbfiyc_html_18a7ce12fb477ceb.png)
 
 ## 3.1 First Page for Login Interface
 
 User to login with email and password given to them through their email.
 
-![](RackMultipart20201103-4-1115z70_html_cc3a849c9d672579.png)
+![](RackMultipart20201103-4-1cbfiyc_html_cc3a849c9d672579.png)
 
 ## 3.2 Login as Admin Interface
 
 Login with role of admin. Admin has most important role in portal as he has authority to create committee.
 
-![](RackMultipart20201103-4-1115z70_html_37f1c9e9f0d7465f.png)
+![](RackMultipart20201103-4-1cbfiyc_html_37f1c9e9f0d7465f.png)
 
 ## 3.3 Create Committee Interface
 
 From admin id create committee link is clicked through which he can create committee through name and email.
 
-![](RackMultipart20201103-4-1115z70_html_230e8ef6fb843edc.png)
+![](RackMultipart20201103-4-1cbfiyc_html_230e8ef6fb843edc.png)
 
 ## 3.4 My Account Interface
 
 Clicking on My Account link admin can change his personal information.
 
-![](RackMultipart20201103-4-1115z70_html_8cc335bd43fc9826.png)
+![](RackMultipart20201103-4-1cbfiyc_html_8cc335bd43fc9826.png)
 
 ## 3.5 Login as Committee Member Interface
 
 Login as role Committee Member. Committee has authority to add advisor, students and jury teams.
 
-![](RackMultipart20201103-4-1115z70_html_45bb6ae6d3cc269d.png)
+![](RackMultipart20201103-4-1cbfiyc_html_45bb6ae6d3cc269d.png)
 
 ## 3.6 Create Jury Team Interface
 
 In this link committee can create jury team from different advisors added to portal the limit is 3 in members in a team.
 
-![](RackMultipart20201103-4-1115z70_html_c9ddfb6c03d51c15.png)
+![](RackMultipart20201103-4-1cbfiyc_html_c9ddfb6c03d51c15.png)
 
 ## 3.7 Committee ADD STUDENT Excel Sheet Interface
 
 Committee can add bunch of student in one go with uploading excel sheet and then every individual student will be emailed with their email and password.
 
-![](RackMultipart20201103-4-1115z70_html_25b7f2518d345562.png)
+![](RackMultipart20201103-4-1cbfiyc_html_25b7f2518d345562.png)
 
 ## 3.8 Login as Advisor Interface
 
 Login as Advisor. Advisor has authority to publish his idea see other advisors ideas and if he is in a jury team then he can coordinate with other jury members.
 
-![](RackMultipart20201103-4-1115z70_html_7d8cbe89c9ce0455.png)
+![](RackMultipart20201103-4-1cbfiyc_html_7d8cbe89c9ce0455.png)
 
 ## 3.9 Advisor Publish Ideas Interface
 
 Here advisor can publish his ideas for students.
 
-![](RackMultipart20201103-4-1115z70_html_54357500bd6b1771.png)
+![](RackMultipart20201103-4-1cbfiyc_html_54357500bd6b1771.png)
 
 ## 3.10 View All Advisors Published ideas
 
 This link allows to see all advisors ideas.
 
-![](RackMultipart20201103-4-1115z70_html_ff82777a95b1080f.png)
+![](RackMultipart20201103-4-1cbfiyc_html_ff82777a95b1080f.png)
 
 ## 3.11 Individual Jury team page for their communication
 
 As part of jury team this link allow all jury members to communicate with each other also can be called as jury group.
 
-![](RackMultipart20201103-4-1115z70_html_30f2a360f2c8d11a.png)
+![](RackMultipart20201103-4-1cbfiyc_html_30f2a360f2c8d11a.png)
 
 ## 3.12 Login as Student Interface
 
 Login as Student, student can send request to other students, accept request from other students, see who he have sent request to.
 
-![](RackMultipart20201103-4-1115z70_html_2d799654a380a9f4.png)
+![](RackMultipart20201103-4-1cbfiyc_html_2d799654a380a9f4.png)
 
 ## 3.13 Student Send and View All Request GROUP CREATING
 
 Here student can send request or view all request
 
-![](RackMultipart20201103-4-1115z70_html_fd27e88d1ea9e6be.png)
+![](RackMultipart20201103-4-1cbfiyc_html_fd27e88d1ea9e6be.png)
 
 ## 3.15 Send request to other students
 
 Can send request from student resisted in portal has limitation of 3 students only
 
-![](RackMultipart20201103-4-1115z70_html_4f42bb91c06f9c85.png)
+![](RackMultipart20201103-4-1cbfiyc_html_4f42bb91c06f9c85.png)
 
 ## 3.16 Student Accept Other Student Request
 
 Interface for request of other students that can be accepted or rejected by logged in user
 
-![](RackMultipart20201103-4-1115z70_html_c2da215a0b8fc4ad.png)
+![](RackMultipart20201103-4-1cbfiyc_html_c2da215a0b8fc4ad.png)
 
 ## 3.17 Student interface for his sent request to other students
 
 Student interface for he has sent request to other students and that he can cancel
 
-![](RackMultipart20201103-4-1115z70_html_be42ffffe56ed707.png)
+![](RackMultipart20201103-4-1cbfiyc_html_be42ffffe56ed707.png)
 
 ## 3.18 Student view all advisors ideas
 
 Student can view all advisers&#39; ideas
 
-![](RackMultipart20201103-4-1115z70_html_457718c75a86bbd3.png)
+![](RackMultipart20201103-4-1cbfiyc_html_457718c75a86bbd3.png)
 
 # CHAPTER 4: Presentation of Data
 
@@ -279,7 +243,7 @@ Committee members can create jury team
 
 **Database Diagram**
 
-![](RackMultipart20201103-4-1115z70_html_8dad4795d83770d7.png)
+![](RackMultipart20201103-4-1cbfiyc_html_8dad4795d83770d7.png)
 
 # CHAPTER 5: Discussions on Findings
 
@@ -341,11 +305,11 @@ As with this final year project process automation system every individual user 
 
 ### Step by step to carry out the Final Year Project (FYP):
 
-![](RackMultipart20201103-4-1115z70_html_8c2ab6c857746c5b.png)
+![](RackMultipart20201103-4-1cbfiyc_html_8c2ab6c857746c5b.png)
 
 ### A Use-Case diagram describing the final year project process automation system portal
 
-![](RackMultipart20201103-4-1115z70_html_24cdbc13883ad3ff.png)
+![](RackMultipart20201103-4-1cbfiyc_html_24cdbc13883ad3ff.png)
 
 ## A.2 Data Flow Diagram of Inner Round Pipelining Design
 
@@ -357,13 +321,13 @@ It contains a Committee head and 4-5 members to monitor and calendar all the exe
 - To provide submitted FYP proposals of students for assessment to extend panels and to gather adjusted/altered propositions from them.
 - To gather mid and last assessment results from the task directors **.**
 
-![](RackMultipart20201103-4-1115z70_html_3eeefcc111a67b6a.png)
+![](RackMultipart20201103-4-1cbfiyc_html_3eeefcc111a67b6a.png)
 
 ### Final year project students:
 
 Committee Member upload student sheet who are eligible for FYP on portal which create n number of student account with their name and university email
 
-![](RackMultipart20201103-4-1115z70_html_a40b51efb8adb3a8.png)
+![](RackMultipart20201103-4-1cbfiyc_html_a40b51efb8adb3a8.png)
 
 #
 
