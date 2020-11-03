@@ -115,7 +115,7 @@ First part is header which will be on top of template and consist of logo and us
 
 User to login with email and password given to them through their email.
 
-![](RackMultipart20201103-4-1cbfiyc_html_cc3a849c9d672579.png)
+![3 1](https://user-images.githubusercontent.com/38830975/98007056-c2b8c400-1e14-11eb-9389-a91b2639516e.png)
 
 ## 3.2 Login as Admin Interface
 
