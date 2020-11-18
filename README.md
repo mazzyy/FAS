@@ -316,7 +316,7 @@ As with this final year project process automation system every individual user 
 
 ## A.2 Data Flow Diagram of Inner Round Pipelining Design
 
-### Final year project (FYP) committee:
+### Final year project (FYP) role committee:
 
 It contains a Committee head and 4-5 members to monitor and calendar all the exercises identified with FYP. Following are the roles of FYP committee:
 
@@ -326,7 +326,7 @@ It contains a Committee head and 4-5 members to monitor and calendar all the exe
 
 ![](RackMultipart20201103-4-1cbfiyc_html_3eeefcc111a67b6a.png)
 
-### Final year project students:
+### Final year project (FYP) role students:
 
 Committee Member upload student sheet who are eligible for FYP on portal which create n number of student account with their name and university email
 
